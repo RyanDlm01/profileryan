@@ -1,0 +1,115 @@
+body{
+	background-color: #76ABAE;
+}
+
+
+header{
+	background-color: white;
+	padding:50px;
+	padding-top:5px;
+	margin: 40px;
+	border-radius:10px;
+	box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+
+}
+
+#experiencepro{
+	background-color: white;
+	padding:50px;
+	padding-top:5px;
+	margin: 40px;
+	border-radius:10px;
+	box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+	line-height: 25px;
+}
+
+#education{
+	background-color: white;
+	padding:50px;
+	padding-top:5px;
+	margin: 40px;
+	border-radius:10px;
+	box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+	line-height: 25px;
+}
+
+#education:hover{
+	background-color: white;
+	padding:50px;
+	padding-top:5px;
+	margin: 40px;
+	border-radius:10px;
+	box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+	line-height: 25px;
+}
+
+#associations{
+	background-color: white;
+	padding:50px;
+	padding-top:5px;
+	margin: 40px;
+	border-radius:10px;
+	box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+	line-height: 25px;
+}
+
+#experiencepro:hover,
+#education:hover,
+#associations:hover {
+  transform: scale(1.05); 
+  transition: transform 0.5s ease-in-out; 
+}
+
+
+footer{
+	background-color: white;
+	padding:5px;
+	margin: 40px;
+	border-radius:10px;
+	box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
+
+h1{
+	
+	font-family:Georgia, serif;
+	font-size: 30px;
+	font-weight:800;
+	text-align: center;
+}
+
+h1:hover{
+	color: #76ABAE;
+	transition: color 0.5s linear;
+	text-decoration: underline;
+}
+
+
+h2{
+	text-align: center;
+	font-family: Copperplate;
+
+}
+
+p{
+	font-family: Helvetica;
+}
+
+.imageprincipale{
+	border-radius: 30%;
+	height:150px;
+	border:5px solid grey;
+	box-shadow: 3px 5px 15px rgba(0,0,0,0.5);
+	margin: 0px 45%;
+
+}
+
+
+.reseaux{
+	display:flex;
+	justify-content: space-around;
+	list-style-type:none;
+	font-size:50px;
+	margin:10px;
+
+}
+
